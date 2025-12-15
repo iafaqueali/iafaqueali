@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👋 Hi, This is Afaque Ali
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking for a Position for Software Engineer.
+- 💞️ I’m looking for Senior Software Engineer.
 - 📫 You can reach me out on 
 -     Email:-iafaqueali@gmail.com
 -     Twitter:-@iafaqueali
