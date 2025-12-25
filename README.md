@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking for Senior Software Engineer.
 - 📫 You can reach me out on 
 -     Email:-iafaqueali@gmail.com
--     Twitter:-@iafaqueali
+-     X(Twitter):-iafaqueali
 -     Facebook:-iafaqueali
 -     Instagram:-iafaqueali
 
